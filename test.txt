@@ -1,1 +1,2 @@
-Hello, Welcome To Git Tutorial
+Hello, Welcome To Git Tutorial.
+Next video will be on push, pull and commit.
